@@ -31,6 +31,6 @@
 
 ## Bandes complètes
 
-![[bandes.png]]
+![Image bande 1](../assets/bandes.png)
 Moins important :
-![[bandes2.png]]
+![Image bande 2](../assets/bandes2.png)

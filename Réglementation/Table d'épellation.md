@@ -1,1 +1,1 @@
-![[epellation.png]]
+![Image table eppelation](../assets/epellation.png)
