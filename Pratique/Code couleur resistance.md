@@ -1,0 +1,1 @@
+![Code couleur](../resistor-color-chart.png)
